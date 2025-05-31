@@ -11,7 +11,7 @@ This project sets up a Docker-based environment to demonstrate the exploitation 
 Deploy a Java application with a vulnerable version of Log4j (2.14.1) using Docker Compose.
 
 ```bash
-cd ../Exploit
+cd ../log4shell-homework
 docker-compose up --build
 
 #After the environment is up and running, simulate an attack using the following commands:
